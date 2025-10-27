@@ -264,6 +264,7 @@ SecIDS-v2/
 
 - 🌐 **Live Dashboard**: [secids.keyvan.ai](https://secids.keyvan.ai/)
 - 📦 **GitHub Repository**: [Keyvanhardani/SecIDS-v2](https://github.com/Keyvanhardani/SecIDS-v2)
+- 🌐 **Linkedin**: [Keyvan Hardani on Linkedin](https://www.linkedin.com/in/keyvanhardani/)
 - 📚 **Documentation**: See `USAGE.md` and `QUICKSTART.md`
 
 ---
