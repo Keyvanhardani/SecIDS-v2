@@ -73,3 +73,20 @@ multirun/
 # Environment
 .env
 .envrc
+
+# Dashboard (local/demo only - not for GitHub)
+serving/
+
+# Publication figures (for LinkedIn/HuggingFace - not for repo)
+publication_figures/
+
+# Private documentation and notes
+EVALUATION_GUIDE.md
+LINKEDIN_POST.md
+MODEL_CARD.md
+PUBLICATION_ASSETS.md
+QUICKSTART_RETRAIN.txt
+RETRAIN_WORKFLOW.md
+
+# Visuals (social media and publication graphics - not for public repo)
+visuals/
