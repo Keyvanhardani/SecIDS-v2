@@ -340,6 +340,7 @@ Security Researcher & ML Engineer
 
 - 🐙 GitHub: [@Keyvanhardani](https://github.com/Keyvanhardani)
 - 📧 Email: hardani@hotmail.de
+- 🌐 **Linkedin**: [Keyvan Hardani on Linkedin](https://www.linkedin.com/in/keyvanhardani/)
 
 ---
 
