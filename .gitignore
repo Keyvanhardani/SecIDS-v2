@@ -82,11 +82,15 @@ publication_figures/
 
 # Private documentation and notes
 EVALUATION_GUIDE.md
+HUGGINGFACE_UPLOAD_GUIDE.md
 LINKEDIN_POST.md
 MODEL_CARD.md
 PUBLICATION_ASSETS.md
+QUICKSTART.md
 QUICKSTART_RETRAIN.txt
 RETRAIN_WORKFLOW.md
+TESTING_GUIDE.md
+USAGE.md
 
 # Visuals (social media and publication graphics - not for public repo)
 visuals/
